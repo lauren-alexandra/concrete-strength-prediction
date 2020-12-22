@@ -1,2 +1,3 @@
 # concrete-strength-prediction
-PGP-AIML at UT Austin feature engineering, model selection and tuning
+
+Analyzed the various features at hand and predict the concrete strength. Implemented the concepts of feature engineering and model tuning to increase the performance of the model.
