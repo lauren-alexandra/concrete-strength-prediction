@@ -1,12 +1,10 @@
 # Concrete Strength Prediction
 
-<table>
-<tr>
-<td>
-   Analyzed the various features at hand and predict the concrete strength. Implemented the concepts of feature engineering and model tuning to increase the performance of the model.
-</td>
-</tr>
-</table>
+Analyzed the various features at hand and predict the concrete strength. Implemented the concepts of feature engineering and model tuning to increase the performance of the model.
+
+## Data
+
+The [data](https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/) for this project is available in the UCI Machine Learning Repository.
 
 ## Built with
 
